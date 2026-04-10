@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+worker: python bot.py
+=======
+discord.py
+>>>>>>> 653518f4ffd13710e36d817dda8521e83aae81b8
